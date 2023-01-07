@@ -32,8 +32,8 @@ Users should be able to:
 - Flexbox
 ## Author
 
-- Website - [Add your name here](https://github.com/salih-kv)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/salih-kv)
+- Website - [salih-kv](https://github.com/salih-kv)
+- Frontend Mentor - [@salih-kv](https://www.frontendmentor.io/profile/salih-kv)
 
 ## Acknowledgments
 
